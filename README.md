@@ -18,6 +18,12 @@ pacman -S git
 pacman -S stow
 ```
 
+### JetBrains Mono Nerd
+
+```
+pacman -S ttf-jetbrains-mono-nerd
+```
+
 ## Installation
 
 First, check out the dotfiles repo in your $HOME directory using git
